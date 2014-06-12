@@ -1,6 +1,6 @@
 # Tora
 
-Tora means Tiger in JJapanese.
+Tora means Tiger in Japanese.
 Japanese is a difficult language to learn
 
 
